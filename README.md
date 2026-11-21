@@ -17,7 +17,7 @@
 </picture>
 
 <h3 align="center">
-  AI (Agentic Engineer)
+  AI (Agentic Engineer) @ Mercanis - An AI Procurement Startup
 </h3>
 
 ---
